@@ -1,0 +1,29 @@
+{
+  "name": "drakkar",
+  "displayName": "Drakkar",
+  "description": "Drakkar Theme",
+  "version": "0.0.1",
+  "publisher": "ubbeck",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "icon": "drakkar_logo.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "minimalist"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Drakkar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Drakkar-color-theme.json"
+      }
+    ]
+  }
+}
