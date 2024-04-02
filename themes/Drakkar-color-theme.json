@@ -935,6 +935,30 @@
 		  }
 		},
 		{
+			"scope": "variable.other.constant.js",
+			"settings": {
+				"foreground": "#FFAB70",
+			}
+		},
+		{
+			"scope": ["variable.other.object.js"],
+			"settings": {
+				"foreground": "#e5c07b",
+			}
+		},
+		{
+			"scope": "meta.object-literal.key.js",
+			"settings": {
+				"foreground": "#56b6c2"
+			}
+		},
+		{
+			"scope": "punctuation.separator.key-value.js",
+			"settings": {
+				"foreground": "#D197D9"
+			}
+		},
+		{
 		  "name": "Class name php",
 		  "scope": "variable.other.class.php",
 		  "settings": {
