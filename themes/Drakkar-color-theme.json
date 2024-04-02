@@ -937,12 +937,6 @@
 		{
 			"scope": "variable.other.constant.js",
 			"settings": {
-				"foreground": "#FFAB70",
-			}
-		},
-		{
-			"scope": ["variable.other.object.js"],
-			"settings": {
 				"foreground": "#e5c07b",
 			}
 		},
@@ -953,7 +947,7 @@
 			}
 		},
 		{
-			"scope": "punctuation.separator.key-value.js",
+			"scope": ["punctuation.separator.key-value.js", "keyword.operator.spread.js"],
 			"settings": {
 				"foreground": "#D197D9"
 			}

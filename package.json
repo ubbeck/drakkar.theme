@@ -2,7 +2,7 @@
   "name": "drakkar",
   "displayName": "Drakkar",
   "description": "Drakkar Theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ubbeck",
   "engines": {
     "vscode": "^1.87.0"
